@@ -10,5 +10,8 @@ wheels/
 .venv
 .env
 
-# Dataset files
-data/
+
+/models
+/data
+/results
+/docs
